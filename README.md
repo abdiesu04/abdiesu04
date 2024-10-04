@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdi</h1>
 <h3 align="center">Aspiring Software Engineer & Problem-Solving Enthusiast</h3>
+<h5 align="center">Leaving things better than how I found them</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdiesu04&label=Profile%20views&color=0e75b6&style=flat" alt="abdiesu04" /> </p>
 
